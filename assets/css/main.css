@@ -2175,12 +2175,11 @@ input, select, textarea {
 	#banner {
 		background: #CCE8F4 url("../../images/pic01.jpg");
 		background-position: center center;
-		background-size: auto 100%;
+		background-size: auto 70%;
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
-		padding: 8em 0;
-		margin: 4em 0 0 0;
+
 	}
 
 		#banner header {
